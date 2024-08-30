@@ -1,0 +1,34 @@
+.bo{
+  background-image: url(image/paw.png);
+  background-size: cover;
+}
+.mid-ipsum {
+  font-size: 2rem;
+  margin: 1rem 0rem 0rem 3rem;
+  display: flex;
+  justify-content: space-between;
+}
+.mid-ipsum h1 {
+  font-size: 6rem;
+}
+
+.mid-ipsum p {
+  font-size: 2rem;
+  font-weight: 400;
+}
+.btn-btn {
+  width: 17rem;
+  height: 6rem;
+  border: none;
+  font-size: 2rem;
+  border-radius: 3rem;
+  background-color: white;
+}
+.downimg {
+  margin: 1rem 1rem 0rem 0rem;
+}
+.imgblend {
+  display: flex;
+  justify-content: space-evenly;
+  border: 10px;
+}

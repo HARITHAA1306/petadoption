@@ -1,0 +1,62 @@
+.body {
+  background-image: url(image/girl\ 2nd\ page.png);
+  background-size: cover;
+}
+.downbody {
+  display: flex;
+  justify-content: space-evenly;
+}
+.leftcontainer {
+  padding: 2rem;
+}
+.leftcontainer h1 {
+  font-size: 250vh;
+  font-weight: 500;
+}
+.leftcontainer p {
+  padding: 2rem 0 0 0;
+  font-size: 50rem;
+}
+.rightcontainer {
+  padding: 3rem;
+}
+.toptext {
+  padding: 1rem;
+  font-size: 1.5rem;
+  background: white;
+  border-radius: 10px;
+  align-content: center;
+}
+.toptext h {
+  margin: 0 0 0 8rem;
+}
+.topimg {
+  display: flex;
+  gap: 11rem;
+  padding: 2rem 0 0 0;
+}
+.leftimg {
+  background-color: white;
+  height: 13rem;
+  width: 11rem;
+  border-radius: 9px;
+}
+.leftimg img {
+  width: 10rem;
+  height: 10rem;
+  object-fit: cover;
+  border-radius: 1.2rem;
+  margin: 0.5rem;
+}
+.leftimg .tag {
+  margin: 0 0 0 3rem;
+  background-color: aliceblue;
+  width: 5rem;
+  border-radius: 5px;
+  padding: 0 0 0 0.5rem;
+  font-size: 1rem;
+}
+.leftimg .tag span {
+  font-size: 8px;
+  color: grey;
+}
